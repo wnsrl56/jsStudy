@@ -16,7 +16,6 @@
 3. git의 기본적인 사용법
     - Remote
     - Branch > Upstream Branch > Tag 활용 언제 브런치를 땄을까?
-    - 
     - Check Out
     - Commit
     - Reset / Revert
