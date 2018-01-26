@@ -75,3 +75,8 @@ remote branch 제거하기
         ex) git remote origin --delete fix-bug 
         origin/fix-bug를 remote 저장소에서 제거한다.
         ```
+
+
+6. git commit 이력 관리
+rebase -i
+    - rebase를 통해서, commit 이력을 amend 할 수 있음    
